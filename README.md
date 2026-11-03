@@ -48,11 +48,3 @@ I'm Mohammad, a programmer who enjoys building things and understanding how they
 ## Projects
 
 I recently joined GitHub and I'm uploading my projects step by step. You can see what's here so far in [my repositories](https://github.com/mohammadjafari-dev?tab=repositories).
-
-## Find me
-
-<div align="center">
-
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-mohammadjafari--dev-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mohammadjafari-dev)
-
-</div>
