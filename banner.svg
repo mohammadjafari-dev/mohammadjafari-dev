@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Mohammad Jafari - Python Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="280" rx="18" fill="url(#grid)"/>
+  <rect width="1000" height="280" rx="18" fill="url(#glow)"/>
+
+  <!-- code window decoration -->
+  <g transform="translate(640 48)">
+    <rect width="300" height="184" rx="12" fill="#0b1020" fill-opacity="0.75" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle cx="20" cy="18" r="5" fill="#fb7185"/>
+    <circle cx="38" cy="18" r="5" fill="#fbbf24"/>
+    <circle cx="56" cy="18" r="5" fill="#34d399"/>
+    <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14">
+      <text x="20" y="58" fill="#c084fc">class <tspan fill="#38bdf8">Developer</tspan>:</text>
+      <text x="40" y="84" fill="#94a3b8">name = <tspan fill="#86efac">"Mohammad"</tspan></text>
+      <text x="40" y="108" fill="#94a3b8">since = <tspan fill="#fbbf24">12</tspan></text>
+      <text x="40" y="132" fill="#94a3b8">loves = [<tspan fill="#86efac">"Python"</tspan>,</text>
+      <text x="40" y="156" fill="#86efac">         "C++", "AI"]</text>
+    </g>
+  </g>
+
+  <!-- text -->
+  <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="56" y="104" font-size="20" fill="#94a3b8" letter-spacing="3">HELLO, I'M</text>
+    <text x="54" y="164" font-size="60" font-weight="700" fill="#ffffff">Mohammad Jafari</text>
+    <rect x="56" y="184" width="120" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="56" y="226" font-size="22" fill="#cbd5e1">Python Developer · Programming since 12</text>
+  </g>
+</svg>
