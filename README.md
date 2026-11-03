@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mohammadjafari-dev/mohammadjafari-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.svg" alt="Mohammad Jafari - Python Developer" width="100%"/>
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=620&lines=Programming+since+I+was+12;Python+is+my+daily+driver;Currently+learning+Artificial+Intelligence">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=4F46E5&center=true&vCenter=true&width=620&lines=Programming+since+I+was+12;Python+is+my+daily+driver;Currently+learning+Artificial+Intelligence" alt="Programming since I was 12. Python is my daily driver. Currently learning Artificial Intelligence.">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About me
+
+I started programming at 12-13 with B4A, then moved on to C#, web development (HTML, CSS, PHP) and Python. At university I learned C++ and got deep into how compilers work.
+
+- Python is my daily driver
+- I am also learning **Artificial Intelligence**
+- I enjoy learning new skills and adding new tools to my toolbox
+
+## Languages and tools
+
+<div align="center">
+
+<img src="./assets/b4a.svg" width="48" height="48" alt="B4A">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP">
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub">
+
+</div>
+
+## My journey
+
+<div align="center">
+
+<img src="./assets/journey.svg" alt="Journey: B4A, C#, HTML/CSS/PHP, Python, C++ and compilers, AI" width="100%">
+
+</div>
+
+## GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohammadjafari-dev&show_icons=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&border_color=30363D&border_radius=10">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadjafari-dev&show_icons=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=24292F&border_color=D0D7DE&border_radius=10" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadjafari-dev&layout=compact&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&border_color=30363D&border_radius=10">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadjafari-dev&layout=compact&bg_color=FFFFFF&title_color=4F46E5&text_color=24292F&border_color=D0D7DE&border_radius=10" alt="Top languages">
+</picture>
+
+</div>
+
+## Find me
+
+<div align="center">
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-mohammadjafari--dev-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mohammadjafari-dev)
+
+</div>
