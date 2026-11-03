@@ -33,7 +33,7 @@
       <text x="40" y="84" fill="#94a3b8">name = <tspan fill="#86efac">"Mohammad"</tspan></text>
       <text x="40" y="108" fill="#94a3b8">since = <tspan fill="#fbbf24">12</tspan></text>
       <text x="40" y="132" fill="#94a3b8">loves = [<tspan fill="#86efac">"Python"</tspan>,</text>
-      <text x="40" y="156" fill="#86efac">         "C++", "AI"]</text>
+      <text x="40" y="156" fill="#86efac">         "C++", "ASM", "AI"]</text>
     </g>
   </g>
 

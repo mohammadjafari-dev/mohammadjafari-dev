@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="Programming journey: B4A, C#, web, Python, C++ and compilers, AI">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="Programming journey: B4A, C#, web, Python, C++ and Assembly, AI">
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#38bdf8"/>
@@ -35,8 +35,8 @@
 
     <!-- 5 C++ -->
     <circle cx="730" cy="60" r="10" fill="#0f172a" stroke="#a78bfa" stroke-width="3"/>
-    <text x="730" y="100" font-size="18" font-weight="700" fill="#f1f5f9">C++ &amp; Compilers</text>
-    <text x="730" y="124" font-size="14" fill="#94a3b8">university</text>
+    <text x="730" y="100" font-size="18" font-weight="700" fill="#f1f5f9">C++ · Assembly</text>
+    <text x="730" y="124" font-size="14" fill="#94a3b8">university &amp; compilers</text>
 
     <!-- 6 AI (current) -->
     <circle cx="890" cy="60" r="16" fill="none" stroke="#a78bfa" stroke-opacity="0.35" stroke-width="2"/>
