@@ -1,34 +1,36 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Mohammad Jafari - Python Developer" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=620&lines=Programming+since+I+was+12;Python+is+my+daily+driver;Currently+learning+Artificial+Intelligence">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=4F46E5&center=true&vCenter=true&width=620&lines=Programming+since+I+was+12;Python+is+my+daily+driver;Currently+learning+Artificial+Intelligence" alt="Programming since I was 12. Python is my daily driver. Currently learning Artificial Intelligence.">
-</picture>
+<img src="./assets/banner.svg" alt="Mohammad Jafari - Python Developer" width="800"/>
 
 </div>
 
 ## About me
 
-I started programming at 12-13 with B4A, then moved on to C#, web development (HTML, CSS, PHP) and Python. At university I learned C++ and Assembly, and got deep into how compilers work.
+I'm Mohammad, a programmer who enjoys building things and understanding how they work under the hood.
 
-- **Python** is my daily driver. I love it because it is easy to use and you can do almost anything with it
-- **Assembly** is a language I enjoy. You have to understand the hardware and its complexities to write programs for it
-- I am also learning **Artificial Intelligence**. It helps a lot in programming and makes building projects easier
-- I enjoy learning new skills and adding new tools to my toolbox
+- **Python is my main language.** I like it because it is easy to write and stays out of your way. You can build almost anything with it: desktop apps for Windows, Linux and macOS, Android apps, games, websites, and more. It is one language that works in nearly every field.
+- **I'm learning Artificial Intelligence.** What fascinates me is building something that can do tasks on its own and even "think". I also use AI tools while coding. I had project ideas waiting for a long time because they needed skills I didn't have the time to learn. Now I design the algorithms and the structure of the code myself, and AI helps me with the implementation, so I can finally build those projects.
+- **I enjoy low-level programming.** Assembly is a real challenge, but it shows you what actually happens in the hardware when a single line of a high-level language runs.
+
+## At university
+
+- **C and C++**: the languages I learned in my university courses.
+- **Microprocessors**: I wrote the course exercises in Assembly.
+- **Compilers**: I built the first stage of a compiler, the lexical analyzer (lexer). I designed a DFA from the rules of the language, then wrote the code that turns source code into tokens.
 
 ## Languages and tools
 
 <div align="center">
 
-<img src="./assets/b4a.svg" width="48" height="48" alt="B4A">
+<img src="https://skillicons.dev/icons?i=py" width="64" height="64" alt="Python"><br>
+<sub><b>Main language</b></sub>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML">
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS">
 <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP">
-<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++">
 <img src="./assets/asm.svg" width="48" height="48" alt="Assembly">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git">
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub">
@@ -39,14 +41,10 @@ I started programming at 12-13 with B4A, then moved on to C#, web development (H
 
 <div align="center">
 
-<img src="./assets/journey.svg" alt="Journey: B4A, C#, HTML/CSS/PHP, Python, C++ and Assembly, AI" width="100%">
+<img src="./assets/journey.svg" alt="Journey: B4A, C#, web development, Python, university (C, C++, Assembly, compilers), and now AI" width="520">
 
 </div>
 
-## Find me
+## Projects
 
-<div align="center">
-
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-mohammadjafari--dev-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mohammadjafari-dev)
-
-</div>
+I recently joined GitHub and I'm uploading my projects step by step. You can see what's here so far in [my repositories](https://github.com/mohammadjafari-dev?tab=repositories).

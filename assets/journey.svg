@@ -1,47 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="Programming journey: B4A, C#, web, Python, C++ and Assembly, AI">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 540" width="520" height="540" role="img" aria-label="Programming journey: B4A, C#, web development, Python, university (C, C++, Assembly, compilers), and now AI">
   <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#38bdf8"/>
       <stop offset="1" stop-color="#a78bfa"/>
     </linearGradient>
   </defs>
 
-  <rect width="1000" height="170" rx="16" fill="#0f172a"/>
+  <rect width="520" height="540" rx="16" fill="#0f172a"/>
+  <rect x="44" y="56" width="4" height="420" rx="2" fill="url(#accent)"/>
 
-  <!-- timeline line -->
-  <rect x="90" y="58" width="800" height="4" rx="2" fill="#334155"/>
-  <rect x="90" y="58" width="640" height="4" rx="2" fill="url(#accent)"/>
-
-  <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
-    <!-- 1 B4A -->
-    <circle cx="90" cy="60" r="10" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
-    <text x="90" y="100" font-size="18" font-weight="700" fill="#f1f5f9">B4A</text>
-    <text x="90" y="124" font-size="14" fill="#94a3b8">first language</text>
-
-    <!-- 2 C# -->
-    <circle cx="250" cy="60" r="10" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
-    <text x="250" y="100" font-size="18" font-weight="700" fill="#f1f5f9">C#</text>
-    <text x="250" y="124" font-size="14" fill="#94a3b8">desktop apps</text>
-
-    <!-- 3 Web -->
-    <circle cx="410" cy="60" r="10" fill="#0f172a" stroke="#60a5fa" stroke-width="3"/>
-    <text x="410" y="100" font-size="18" font-weight="700" fill="#f1f5f9">HTML · CSS · PHP</text>
-    <text x="410" y="124" font-size="14" fill="#94a3b8">web development</text>
-
-    <!-- 4 Python -->
-    <circle cx="570" cy="60" r="10" fill="#0f172a" stroke="#818cf8" stroke-width="3"/>
-    <text x="570" y="100" font-size="18" font-weight="700" fill="#f1f5f9">Python</text>
-    <text x="570" y="124" font-size="14" fill="#94a3b8">daily driver</text>
-
-    <!-- 5 C++ -->
-    <circle cx="730" cy="60" r="10" fill="#0f172a" stroke="#a78bfa" stroke-width="3"/>
-    <text x="730" y="100" font-size="18" font-weight="700" fill="#f1f5f9">C++ · Assembly</text>
-    <text x="730" y="124" font-size="14" fill="#94a3b8">university &amp; compilers</text>
-
-    <!-- 6 AI (current) -->
-    <circle cx="890" cy="60" r="16" fill="none" stroke="#a78bfa" stroke-opacity="0.35" stroke-width="2"/>
-    <circle cx="890" cy="60" r="10" fill="#a78bfa"/>
-    <text x="890" y="100" font-size="18" font-weight="700" fill="#f1f5f9">AI</text>
-    <text x="890" y="124" font-size="14" fill="#c4b5fd">learning now</text>
+  <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <circle cx="46" cy="56" r="10" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
+    <text x="86" y="64" font-size="24" font-weight="700" fill="#f1f5f9">B4A</text>
+    <text x="86" y="90" font-size="18" fill="#94a3b8">My first language</text>
+    <circle cx="46" cy="140" r="10" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
+    <text x="86" y="148" font-size="24" font-weight="700" fill="#f1f5f9">C#</text>
+    <text x="86" y="174" font-size="18" fill="#94a3b8">Desktop apps</text>
+    <circle cx="46" cy="224" r="10" fill="#0f172a" stroke="#60a5fa" stroke-width="3"/>
+    <text x="86" y="232" font-size="24" font-weight="700" fill="#f1f5f9">HTML · CSS · PHP</text>
+    <text x="86" y="258" font-size="18" fill="#94a3b8">Web development</text>
+    <circle cx="46" cy="308" r="10" fill="#0f172a" stroke="#818cf8" stroke-width="3"/>
+    <text x="86" y="316" font-size="24" font-weight="700" fill="#f1f5f9">Python</text>
+    <text x="86" y="342" font-size="18" fill="#94a3b8">My main language</text>
+    <circle cx="46" cy="392" r="10" fill="#0f172a" stroke="#a78bfa" stroke-width="3"/>
+    <text x="86" y="400" font-size="24" font-weight="700" fill="#f1f5f9">University</text>
+    <text x="86" y="426" font-size="18" fill="#94a3b8">C, C++, Assembly and compilers</text>
+    <circle cx="46" cy="476" r="17" fill="none" stroke="#a78bfa" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="46" cy="476" r="10" fill="#a78bfa"/>
+    <text x="86" y="484" font-size="24" font-weight="700" fill="#f1f5f9">AI</text>
+    <text x="86" y="510" font-size="18" fill="#c4b5fd">Learning now</text>
   </g>
 </svg>
