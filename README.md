@@ -43,21 +43,6 @@ I started programming at 12-13 with B4A, then moved on to C#, web development (H
 
 </div>
 
-## GitHub stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohammadjafari-dev&show_icons=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9&border_color=30363D&border_radius=10">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadjafari-dev&show_icons=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=24292F&border_color=D0D7DE&border_radius=10" alt="GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadjafari-dev&layout=compact&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&border_color=30363D&border_radius=10">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadjafari-dev&layout=compact&bg_color=FFFFFF&title_color=4F46E5&text_color=24292F&border_color=D0D7DE&border_radius=10" alt="Top languages">
-</picture>
-
-</div>
-
 ## Find me
 
 <div align="center">
